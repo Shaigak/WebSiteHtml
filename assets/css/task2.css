@@ -1,0 +1,156 @@
+.navbar{
+    width: 1500px;
+    height: 82px;
+    margin-right: 0px;
+    margin-top: 40px;
+    background-color: #666666  
+
+}
+
+
+
+
+
+.bar2{
+    width: 1508px;
+    height: 50px;
+    background-color: #948585
+    
+}
+
+.bar2 {
+    display: flex;
+    justify-content: space-around;
+    font-size:larger;
+    justify-content: center;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+.bar2 .menu{
+    
+    margin-right: 1193px;
+    text-decoration: none;
+    margin-top: 20px; 
+    
+      
+}
+
+.bar2 .menu a{
+    color:aliceblue
+    
+}
+
+.bar2 .menu button{
+    justify-content:space-between;
+}
+.par{
+    display: flex;
+    justify-content: space-around;
+    margin-right: 1000px;
+    
+}
+
+.banner{
+    width: 200px;
+    height: 200px;
+    background-color: #aba8a8;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+
+.allban{
+    display: flex;
+    justify-content: space-between;
+}
+
+.allban .banner{
+    width: 300px;
+   
+}
+
+.allban .words{
+    width: 400px;
+    margin-top: 50px;
+    margin-right: 100px;
+   
+}
+.allban .sidbar{
+    width: 50px;
+    margin-right: 50px;
+    margin-left: 60px;
+    
+   
+}
+
+.allban .banner .banner2{
+    width: 300px;
+    height: 200px;
+    background-color: #b6b4b4;
+    margin-top: 300px;
+}
+
+.words .words2 p{
+    margin-top: 200px;
+    margin-top: 160px;
+}
+
+.sidbar .sidbar2 {
+    width: 180px;
+    margin-right: 20px;
+}
+
+
+ .words3 p{
+    margin-top: 200px;
+    margin-top: 160px;
+    margin-top: 70px;
+}
+
+ .allban .banner3{
+    width: 300px;
+    height: 200px;
+    background-color: #b6b4b4;
+    margin-bottom: 200px;
+}
+
+.allban .banner4{
+    width: 300px;
+    height: 200px;
+    background-color: #b6b4b4;
+    margin-bottom: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

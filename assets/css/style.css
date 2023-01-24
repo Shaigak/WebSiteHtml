@@ -1,0 +1,130 @@
+body{
+    background-color: #212B2D;
+}
+
+.rem{
+    width: 1100px;
+    height: 40px;
+    background-color: #495158;
+    margin-left: 145px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+
+}
+.rem ul{
+    
+    display: flex;
+    justify-content: space-around;
+    font-size:larger;
+    list-style: none;
+
+    
+}
+
+.rem ul li a{
+    text-decoration: none;
+    margin-left: 30px;
+}
+.picture{
+    background-image:url(../Image/world.jpg);
+    margin-left: 140px;
+    width: 1100px;
+    height: 300px;
+}
+
+.menu ul{
+    font-size: larger;
+    margin-left: 120px;
+    font-size:medium ;color: aliceblue;
+    display:inline-block
+    
+}
+.menu ul h1{
+    margin-right: 30px;
+    display:inline-block
+   
+}
+
+.menu ul li a{
+    text-decoration: none;
+    display: 
+    display:inline-block
+    
+}
+
+.menu{
+    display: flex;
+      
+}
+.Galery{
+    width: 1100px;
+    height: 1500px;
+    margin-left: 120px; 
+    margin-right: 180px; 
+}
+
+
+.wor{
+    margin-top: 100px;
+    margin-right: 30px;
+    margin-bottom: 80px;
+    padding: -5px;
+}
+
+.ple p{
+    margin-top: 120px;
+    margin-right: 800px;
+    margin-right: 10;
+}
+
+
+.bloked{
+ margin-bottom: 10px;
+}
+
+.wor h1{
+    color: aliceblue;
+}
+.Subs p{
+    color: aliceblue;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer .Subs{
+    width: 400px;
+}
+
+.footer .services{
+    width: 400px;
+    margin-right: 64px;
+}
+
+.content{
+    display: flex;
+}
+
+.boxall{
+    display: flex;
+    margin-top: 300px;
+    
+}
+.footer .services input{
+    width: 120px;
+    height: 50px;
+    background-color: #98ACAE;
+}
+
+.footer .Subs input{
+    width: 120px;
+    height: 50px;
+    background-color: #98ACAE;
+}
+
+
+
+
